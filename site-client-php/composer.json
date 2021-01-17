@@ -1,0 +1,13 @@
+{
+    "name": "ralph/projet-git-iot-shutup",
+    "require": {
+        "mongodb/mongodb": "^1.8",
+        "php": "^7.4.13"
+      },
+    "authors": [
+        {
+            "name": "iBananos",
+            "email": "56481216+iBananos@users.noreply.github.com"
+        }
+    ]
+}
