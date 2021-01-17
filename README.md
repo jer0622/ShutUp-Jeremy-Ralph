@@ -1,8 +1,8 @@
 # ShutUp-Jeremy-Ralph
 
 ## Auteurs :
-    - Jérémy HIRTH DAUMAS
-    - Ralph EL CHALFOUN 
+ - Jérémy HIRTH DAUMAS
+ - Ralph EL CHALFOUN 
 
 ## Petite Description
 Le site client se trouve [ici](https://shut-up-jr.herokuapp.com/).
