@@ -4,7 +4,7 @@
  - Jérémy HIRTH DAUMAS
  - Ralph EL CHALFOUN 
 
-## Petite Description
+## Petite Description :
 Le site client se trouve [ici](https://shut-up-jr.herokuapp.com/).
 
 
